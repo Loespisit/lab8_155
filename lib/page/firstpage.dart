@@ -13,7 +13,7 @@ class _FirstPageState extends State<FirstPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Lab8"),
+        title: Text("Lab8_155"),
         backgroundColor: Colors.deepOrangeAccent,
       ),
       body: Center(
